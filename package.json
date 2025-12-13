@@ -1,0 +1,22 @@
+{
+  "name": "intercode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Back-End && npm install --prefix Front-End && npm run build --prefix Front-End",
+    "start": "npm run start --prefix Back-End"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyanshK1103/InterCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShreyanshK1103/InterCode/issues"
+  },
+  "homepage": "https://github.com/ShreyanshK1103/InterCode#readme"
+}
