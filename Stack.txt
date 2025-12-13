@@ -1,0 +1,9 @@
+Node js
+Express
+Mongo
+Tailwind
+Daisy UI
+Ten // I dont remember this one for now
+Clerk
+Scream
+Ingest
