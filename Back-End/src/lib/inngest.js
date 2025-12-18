@@ -1,6 +1,6 @@
 import { Inngest } from "inngest";
-import { connectDB } from "./db";
-import User from "../Models/User";
+import { connectDB } from "./db.js";
+import User from "../Models/User.js";
 
 export const inngest = new Inngest({ id: "InterCode" });
 
